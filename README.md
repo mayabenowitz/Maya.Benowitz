@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages 
+
+[Machine Learning in Graph-Based Hilbert Spaces]  
+**Maya Benowitz**  
+_Submitted to the Journal of Graph Theory_
 
 You can use the [editor on GitHub](https://github.com/mayabenowitz/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
