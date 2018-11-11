@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages 
 
-[Machine Learning in Graph-Based Hilbert Spaces](Maya.Benowitz/_system_appendPDF_proof_hi.pdf)  
+[Machine Learning in Graph-Based Hilbert Spaces](https://static1.squarespace.com/static/5b6a93759772ae3555c31081/t/5be7b8beb8a0453fd322e717/1541912767242/_system_appendPDF_proof_hi.pdf)  
 **Maya Benowitz**  
 _Submitted to the Journal of Graph Theory_
 
