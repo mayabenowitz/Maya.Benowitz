@@ -1,6 +1,6 @@
 ### Research Interests & Philosophy  
 
-Much of my work focuses on importing insights and tools from fundamental and statistical physics for physics-based simulations and machine learning applications in computational biology and biophysics. Specifically, my work lies at the intersections of algorithmic spectral graph theory, chemical graph theory, operator theory, group theory, and random matrix theory. The central theme of my research embodies a highly multidisciplinary approach in finding deep connections between mathematics, physics, machine learning, and biologyin theory and practice 
+Much of my work focuses on importing insights and tools from fundamental and statistical physics for physics-based simulations and machine learning applications in computational biology and biophysics. Specifically, my work lies at the intersections of algorithmic spectral graph theory, chemical graph theory, operator theory, group theory, and random matrix theory. The central theme of my research embodies a highly multidisciplinary approach in finding deep connections between mathematics, physics, machine learning, and biology with the aim to push new frontiers and develop novel applications at the intersections thereof. 
 
 
 [Machine Learning in Graph-Based Hilbert Spaces](https://static1.squarespace.com/static/5b6a93759772ae3555c31081/t/5be7b8beb8a0453fd322e717/1541912767242/_system_appendPDF_proof_hi.pdf)  
