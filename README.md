@@ -29,10 +29,10 @@ _In-House Journal, Undergraduate Thesis, 2015_
 _Biophysical Society's 59th Annual Meeting, 2015_  
 
 
-### Influential Unpublished Manuscripts  
+## Influential Unpublished Manuscripts  
 
 
-### Personal Background  
+## Personal Background  
 
 I am a transwoman with humble beginnings. I began my academic career in one of the lowest-ranked high schools in the US. I am a first-generation STEM graduate and a soon-to-be first-generation post-graduate. To this end, I seek to inspire the next generation of STEM students from underrepresented minorities and socioeconomic backgrounds. It is a personal mission of mine to seek brilliantly creative individuals in unexpected places and foster supportive environments for their intellectual growth.
 
