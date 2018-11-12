@@ -9,7 +9,17 @@ _Submitted to the Journal of Graph Theory, 2018_
 
 [Computational Spectral Mechanics: A New Perspective of Entropy](https://static1.squarespace.com/static/5b6a93759772ae3555c31081/t/5bb99fe653450a0e432811f3/1538891761207/spec.pdf)  
 **Maya Benowitz**, Michael Schnieders, Janice Robertson  
-_Invited Poster Presentation at Vertex Pharmaceuticals Free Energy Workshop, 2016_
+_Invited Poster Presentation at Vertex Pharmaceuticals Free Energy Workshop, 2016_  
+
+[Modern Physics Ends Where Life Begins: An Introduction to Random Gyration Matrix Theory](https://static1.squarespace.com/static/5b6a93759772ae3555c31081/t/5bab27f5419202c59851ab9b/1537943578110/RGMTposter2.pdf)  
+**Maya Benowitz**, Michael Schnieders, Janice Robertson  
+_Biomedical Engineering Symposium, University of Iowa, 2016  |  Best Undergraduate Poster Award_  
+
+[Centrality Measures of Graphs utilizing Continous Walks in Hilbert Space](https://digitalcommons.usu.edu/phys_capstoneproject/18/)  
+**Maya Benowitz**, David Peak  
+_In-House Journal, Undergraduate Thesis, 2015_  
+
+
 
 You can use the [editor on GitHub](https://github.com/mayabenowitz/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
