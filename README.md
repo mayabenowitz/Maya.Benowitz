@@ -2,7 +2,7 @@
 
 In 2015 I graduated with a BS in Physics from Utah State University. Under the supervision of [David Peak](https://physics.usu.edu/people/faculty-logan/david-peak), I proposed and proved an original theorem at the intersection of spectral graph theory and operator theory for my Bachelor's thesis. I am currently extending this result with informal mentorship from David Peak.  
 
-In 2016 I did a post-bacc at the University of Iowa in the Department of Molecular Physiology and Biophysics under the supervision of [Janice Robertson](https://robertson.lab.uiowa.edu/) and [Michael Schnieders](https://medicine.uiowa.edu/biochemistry/profile/michael-schnieders).  
+In 2016 I did a post-bacc at the University of Iowa in the Department of Molecular Physiology and Biophysics under the supervision of [Janice Robertson](https://robertson.lab.uiowa.edu/) and [Michael Schnieders](https://medicine.uiowa.edu/biochemistry/profile/michael-schnieders). While there, I had the opportunity to spear-head a membrane protein engineering project and a new spectral method for MD analysis.
 
 Prior to my graduation, I worked at the [Center for Nanoscale Materials and Biointegration](https://cas.uab.edu/cnmb/) under the supervision of [Lufang Zhou](https://www.uab.edu/medicine/cardiovascular/faculty/95-lufang-zhou) and in the [Atmospheric Lidar Observatory](https://cass.usu.edu/observatories/atmospheric-lidar) under the supervision of [Vincent Wickwar](https://physics.usu.edu/people/faculty-logan/vince-wickwar).   
 
