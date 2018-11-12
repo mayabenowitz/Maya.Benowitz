@@ -16,7 +16,7 @@ _Submitted to the Journal of Graph Theory, 2018_
 **Maya Benowitz**, Michael Schnieders, Janice Robertson  
 _Invited Poster Presentation at Vertex Pharmaceuticals Free Energy Workshop, 2016_  
 
-[Modern Physics Ends Where Life Begins: An Introduction to Random Gyration Matrix Theory](https://static1.squarespace.com/static/5b6a93759772ae3555c31081/t/5bab27f5419202c59851ab9b/1537943578110/RGMTposter2.pdf)  
+[Modern Physics Ends where Life Begins: An Introduction to Random Gyration Matrix Theory](https://static1.squarespace.com/static/5b6a93759772ae3555c31081/t/5bab27f5419202c59851ab9b/1537943578110/RGMTposter2.pdf)  
 **Maya Benowitz**, Michael Schnieders, Janice Robertson  
 _Biomedical Engineering Symposium, University of Iowa, 2016  |  Best Undergraduate Poster Award_  
 
