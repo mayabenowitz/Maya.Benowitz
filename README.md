@@ -1,3 +1,7 @@
+## About  
+
+In 2015 I graduated with a BS in Physics (with distinctions in research) from Utah State University. Under the supervision of David Peak, I proposed and proved an original theorem at the intersection of spectral graph theory and quantum mechanics. In 2016 I did a post-bacc at the University of Iowa under the supervision of Janice Robertson and Michael Schnieders. Prior to my graduation, I worked at the Center for Nanoscale Materials and Biointegration under the supervision of Lufang Zhou.
+
 ## Research Interests & Philosophy  
 
 Much of my work focuses on importing insights and tools from fundamental and statistical physics for physics-based simulations and machine learning applications in computational biology and biophysics. Specifically, my work lies at the intersections of algorithmic spectral graph theory, chemical graph theory, operator theory, group theory, and random matrix theory. The central theme of my research embodies a highly multidisciplinary approach in finding deep connections between mathematics, physics, machine learning, and biology -- with the aim of pushing new frontiers and developing novel applications at the intersections thereof. I envision a future of _antidisciplinary_ research where fruitful interactions between the disciplines and their respective fields pave the road to a universal learning algorithm --- and, with it, a biological industrial revolution.  
