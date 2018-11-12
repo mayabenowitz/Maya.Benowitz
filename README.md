@@ -5,7 +5,11 @@ Much of my work focuses on importing insights and tools from fundamental and sta
 
 [Machine Learning in Graph-Based Hilbert Spaces](https://static1.squarespace.com/static/5b6a93759772ae3555c31081/t/5be7b8beb8a0453fd322e717/1541912767242/_system_appendPDF_proof_hi.pdf)  
 **Maya Benowitz**  
-_Submitted to the Journal of Graph Theory, 2018_
+_Submitted to the Journal of Graph Theory, 2018_  
+
+[Computational Spectral Mechanics: A New Perspective of Entropy](https://static1.squarespace.com/static/5b6a93759772ae3555c31081/t/5bb99fe653450a0e432811f3/1538891761207/spec.pdf)  
+**Maya Benowitz**, Michael Schnieders, Janice Robertson  
+_Invited Poster Presentation at Vertex Pharmaceuticals Free Energy Workshop, 2016_
 
 You can use the [editor on GitHub](https://github.com/mayabenowitz/portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
