@@ -1,6 +1,6 @@
 ## About  
 
-In 2015 I graduated with a BS in Physics from Utah State University. Under the supervision of [David Peak](https://physics.usu.edu/people/faculty-logan/david-peak), I proposed and proved an original theorem at the intersection of spectral graph theory and quantum mechanics for my Bachelor's thesis. I am currently extending this result with informal mentorship from David Peak.  
+In 2015 I graduated with a BS in Physics from Utah State University. Under the supervision of [David Peak](https://physics.usu.edu/people/faculty-logan/david-peak), I proposed and proved an original theorem at the intersection of spectral graph theory and operator theory for my Bachelor's thesis. I am currently extending this result with informal mentorship from David Peak.  
 
 In 2016 I did a post-bacc at the University of Iowa in the Department of Molecular Physiology and Biophysics under the supervision of [Janice Robertson](https://robertson.lab.uiowa.edu/) and [Michael Schnieders](https://medicine.uiowa.edu/biochemistry/profile/michael-schnieders).  
 
