@@ -17,8 +17,12 @@ _Invited Poster Presentation at Vertex Pharmaceuticals Free Energy Workshop, 201
 _Biomedical Engineering Symposium, University of Iowa, 2016  |  Best Undergraduate Poster Award_  
 
 [Centrality Measures of Graphs utilizing Continous Walks in Hilbert Space](https://digitalcommons.usu.edu/phys_capstoneproject/18/)  
-**Maya Benowitz**, David Peak  
+**Maya Benowitz**, Mentor: David Peak  
 _In-House Journal, Undergraduate Thesis, 2015_  
+
+[Monitoring the Mitochondrial Membrane Potential with Mitoview 633: A New Molecular Probe](https://www.cell.com/biophysj/fulltext/S0006-3495(14)04512-3)  
+**Maya Benowitz**, Qince Li, KahYong Goh, Chih-Chang Wei, Lufang Zhou  
+_Biophysical Society's 59th Annual Meeting_
 
 
 
