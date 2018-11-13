@@ -24,7 +24,7 @@ _Invited Poster Presentation at Vertex Pharmaceuticals Free Energy Workshop, 201
 [Modern Physics Ends where Life Begins: An Introduction to Random Gyration Matrix Theory](https://static1.squarespace.com/static/5b6a93759772ae3555c31081/t/5bab27f5419202c59851ab9b/1537943578110/RGMTposter2.pdf)  
 **Maya Benowitz**, Michael Schnieders, Janice Robertson  
 _Biomedical Engineering Symposium, University of Iowa, 2016  |  Best Poster Award_  
->Using tools from random matrix theory, 
+>Using tools from random matrix theory and information theory, this poster outlines a new spectral methodology for the computation of conformational entropies from MD simulations in linear time. The spectrum of the gyration matrix (which describes random walks) contains information of the shape of the polymer. We compute conformational entropies in two steps: 1) by treating the gyration matrix as a Gaussian random variable, we construct probability distributions on the "space of all possible shapes" and 2) we then calculate the Shannon entropy of these distributions.
 
 [Centrality Measures of Graphs utilizing Continous Walks in Hilbert Space](https://digitalcommons.usu.edu/phys_capstoneproject/18/)  
 **Maya Benowitz**, Mentor: David Peak  
