@@ -35,7 +35,7 @@ _In-House Journal, Bachelor's Thesis, 2015_
 [Monitoring the Mitochondrial Membrane Potential with Mitoview 633: A New Molecular Probe](https://www.cell.com/biophysj/fulltext/S0006-3495(14)04512-3)  
 **Maya Benowitz**, Qince Li, KahYong Goh, Chih-Chang Wei, Lufang Zhou  
 _Biophysical Society's 59th Annual Meeting, 2015_  
-> In this poster, Mitoview633 (a new far-red fluorophore) is characterized with respect TMRM in cardiomyocyte and H9C2 cells. We obtain the emission and absorption spectrums of Mitoview633, perform co-localization, photobleaching, and FCCP depolarization studies.
+> In this poster, Mitoview633 (a new far-red fluorophore) is characterized with respect to TMRM in cardiomyocyte and H9C2 cells. We obtain the emission and absorption spectrums of Mitoview633, perform co-localization, photobleaching, and FCCP depolarization studies.
 
 ## Personal Background  
 
