@@ -8,14 +8,14 @@ Prior to my graduation, I worked at the [Center for Nanoscale Materials and Bioi
 
 ## Research Interests & Philosophy  
 
-Much of my work focuses on importing insights and tools from fundamental and statistical physics for physics-based simulations and machine learning applications in computational biology and biophysics. Specifically, my work lies at the intersections of algorithmic spectral graph theory, chemical graph theory, operator theory, group theory, and random matrix theory. The central theme of my research embodies a highly multidisciplinary approach in finding deep connections between mathematics, physics, machine learning, and biology -- with the aim of pushing new frontiers and developing novel applications at the intersections thereof. I envision a future of _antidisciplinary_ research where fruitful interactions between the disciplines and their respective fields pave the road to a universal learning algorithm --- and, with it, a biological industrial revolution.  
+Much of my work focuses on importing insights and tools from fundamental and statistical physics for physics-based simulations and machine learning applications in computational biology and biophysics. Specifically, my work lies at the intersections of algorithmic spectral graph theory, chemical graph theory, operator theory, group theory, information theory, and random matrix theory. The central theme of my research embodies a highly multidisciplinary approach in finding deep connections between--- mathematics, physics, machine learning, and biology---with the aim of pushing new frontiers and developing novel applications at the intersections thereof. I envision a future of _antidisciplinary_ research where fruitful interactions between the disciplines and their respective fields pave the road to a universal learning algorithm --- and, with it, a biological industrial revolution.  
 
 ## Publications & Presentations  
 
 [Machine Learning in Graph-Based Hilbert Spaces](https://static1.squarespace.com/static/5b6a93759772ae3555c31081/t/5be7b8beb8a0453fd322e717/1541912767242/_system_appendPDF_proof_hi.pdf)  
 **Maya Benowitz**  
 _Submitted to the Journal of Graph Theory, 2018_  
->This paper is centered around a theorem connecting spectral graph theory with operator theory using insights from fundamental physics (Hilbert spaces) and statistical physics (power-laws). This theorem allows these two formerly disparate fields to communicate with one another using a unified language. As a consequence, new tools for the machine learner's toolkit (graph distances and graph kernels) emerge --- computable in polynomial time.
+>This paper is centered around a theorem connecting spectral graph theory with operator theory using insights from fundamental physics (Hilbert spaces) and statistical physics (power-laws). This theorem allows these formerly disparate fields to communicate with one another using a unified language. As a consequence, new tools for the machine learner's toolkit (graph distances and graph kernels) emerge --- computable in polynomial time.
 
 [Computational Spectral Mechanics: A New Perspective of Entropy](https://static1.squarespace.com/static/5b6a93759772ae3555c31081/t/5bb99fe653450a0e432811f3/1538891761207/spec.pdf)  
 **Maya Benowitz**, Michael Schnieders, Janice Robertson  
@@ -24,6 +24,7 @@ _Invited Poster Presentation at Vertex Pharmaceuticals Free Energy Workshop, 201
 [Modern Physics Ends where Life Begins: An Introduction to Random Gyration Matrix Theory](https://static1.squarespace.com/static/5b6a93759772ae3555c31081/t/5bab27f5419202c59851ab9b/1537943578110/RGMTposter2.pdf)  
 **Maya Benowitz**, Michael Schnieders, Janice Robertson  
 _Biomedical Engineering Symposium, University of Iowa, 2016  |  Best Poster Award_  
+>Using tools from random matrix theory, 
 
 [Centrality Measures of Graphs utilizing Continous Walks in Hilbert Space](https://digitalcommons.usu.edu/phys_capstoneproject/18/)  
 **Maya Benowitz**, Mentor: David Peak  
