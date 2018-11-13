@@ -29,13 +29,15 @@ _Biomedical Engineering Symposium, University of Iowa, 2016  |  Best Poster Awar
 
 [Centrality Measures of Graphs utilizing Continous Walks in Hilbert Space](https://digitalcommons.usu.edu/phys_capstoneproject/18/)  
 **Maya Benowitz**, Mentor: David Peak  
-_In-House Journal, Undergraduate Thesis, 2015_  
+_In-House Journal, Bachelor's Thesis, 2015_  
+> In my thesis, using inisghts from fundamental physics and statistical physics, I propose and prove a new theorem at the intersection of spectral graph theory and operator theory --- opening the door to studying graphs with the tools of continuous mathematics. I use this theorem to generalize several centrality measures.
 
 [Monitoring the Mitochondrial Membrane Potential with Mitoview 633: A New Molecular Probe](https://www.cell.com/biophysj/fulltext/S0006-3495(14)04512-3)  
 **Maya Benowitz**, Qince Li, KahYong Goh, Chih-Chang Wei, Lufang Zhou  
 _Biophysical Society's 59th Annual Meeting, 2015_  
+> In this poster, Mitoview633 (a new far-red fluorophore) is characterized with respect TMRM in cardiomyocyte and H9C2 cells. We obtain the emission and absorption spectrums of Mitoview633, perform co-localization, photobleaching, and FCCP depolarization studies.
 
 ## Personal Background  
 
-I am a Jewish transwoman with humble beginnings. I began my academic career in one of the lowest-ranked high schools in the US. I am a first-generation STEM graduate and a soon-to-be first-generation post-graduate. To this end, I seek to inspire the next generation of STEM students from underrepresented minorities and socioeconomic backgrounds. It is a personal mission of mine to seek brilliantly creative individuals in unexpected places and foster supportive environments for their intellectual growth. I envision a future where the richness in diversity and inclusion --- both culturally and intellectually --- ignites the imaginations of the next generation of thought leaders.
+I am a Jewish transwoman with humble beginnings. I began my academic career in one of the lowest-ranked high schools in the US. I am a first-generation STEM graduate and a soon-to-be first-generation post-graduate. To this end, I seek to inspire the next generation of STEM students from underrepresented minorities and socioeconomic backgrounds. It is a personal mission of mine to seek brilliantly creative individuals in unexpected places and foster supportive environments for their intellectual growth. I envision a future where the richness in diversity and inclusion --- both culturally and intellectually --- ignites the imaginations of our next generation of thought leaders.
 
