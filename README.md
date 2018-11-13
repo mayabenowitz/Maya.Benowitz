@@ -1,6 +1,6 @@
 ## About  
 
-In 2015 I graduated with a BS in Physics from Utah State University. Under the supervision of [David Peak](https://physics.usu.edu/people/faculty-logan/david-peak), I proposed and proved an original theorem at the intersection of spectral graph theory and operator theory for my Bachelor's thesis. I am currently extending this result for applications in machine learning with informal mentorship from David Peak.  
+In 2015 I graduated with a BS in Physics (with a distinction in research) from Utah State University. Under the supervision of [David Peak](https://physics.usu.edu/people/faculty-logan/david-peak), I proposed and proved an original theorem at the intersection of spectral graph theory and operator theory for my Bachelor's thesis. I am currently extending this result for applications in machine learning with informal mentorship from David Peak.  
 
 In 2016 I did a post-bacc at the University of Iowa in the Department of Molecular Physiology and Biophysics under the supervision of [Janice Robertson](https://robertson.lab.uiowa.edu/) and [Michael Schnieders](https://medicine.uiowa.edu/biochemistry/profile/michael-schnieders). While there, I had the opportunity to spear-head a membrane protein engineering project and a new spectral method for MD analysis.
 
@@ -38,5 +38,5 @@ _Biophysical Society's 59th Annual Meeting, 2015_
 
 ## Personal Background  
 
-I am a transwoman with humble beginnings. I began my academic career in one of the lowest-ranked high schools in the US. I am a first-generation STEM graduate and a soon-to-be first-generation post-graduate. To this end, I seek to inspire the next generation of STEM students from underrepresented minorities and socioeconomic backgrounds. It is a personal mission of mine to seek brilliantly creative individuals in unexpected places and foster supportive environments for their intellectual growth.
+I am a Jewish transwoman with humble beginnings. I began my academic career in one of the lowest-ranked high schools in the US. I am a first-generation STEM graduate and a soon-to-be first-generation post-graduate. To this end, I seek to inspire the next generation of STEM students from underrepresented minorities and socioeconomic backgrounds. It is a personal mission of mine to seek brilliantly creative individuals in unexpected places and foster supportive environments for their intellectual growth.
 
