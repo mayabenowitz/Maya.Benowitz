@@ -39,5 +39,15 @@ _Biophysical Society's 59th Annual Meeting, 2015_
 
 ## Personal Background  
 
-I am a Jewish transwoman with humble beginnings. I began my academic career in one of the lowest-ranked high schools in the US. I am a first-generation STEM graduate and a soon-to-be first-generation post-graduate. To this end, I seek to inspire the next generation of STEM students from underrepresented minorities and socioeconomic backgrounds. It is a personal mission of mine to seek brilliantly creative individuals in unexpected places and foster supportive environments for their intellectual growth. I envision a future where the richness in diversity and inclusion --- both culturally and intellectually --- ignites the imaginations of our next generation of thought leaders.
+I am a Jewish transwoman with humble beginnings. I began my academic career in one of the lowest-ranked high schools in the US. I am a first-generation STEM graduate and a soon-to-be first-generation post-graduate. To this end, I seek to inspire the next generation of STEM students from underrepresented minorities and socioeconomic backgrounds. It is a personal mission of mine to seek brilliantly creative individuals in unexpected places and foster supportive environments for their intellectual growth. I envision a future where the richness in diversity and inclusion --- both culturally and intellectually --- ignites the imaginations of our next generation of thought leaders.  
+  
+<br/><br/>
 
+<p align="center">
+   <img src="https://avatars0.githubusercontent.com/u/44814324?s=400&v=4">
+  <b></b><br>
+  <a href="https://static1.squarespace.com/static/5b6a93759772ae3555c31081/t/5bc647e7b208fcc2a571e33c/1539721191191/mayabenowitz_cv.pdf">CV</a> |
+  <a href="https://www.researchgate.net/profile/M_Benowitz">ResearchGate</a> |
+  <a href="https://www.mpbenowitz.work/">Extras</a>
+  <br><br>
+</p>
