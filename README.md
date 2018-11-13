@@ -23,15 +23,15 @@ _Invited Poster Presentation at Vertex Pharmaceuticals Free Energy Workshop, 201
 
 [Modern Physics Ends where Life Begins: An Introduction to Random Gyration Matrix Theory](https://static1.squarespace.com/static/5b6a93759772ae3555c31081/t/5bab27f5419202c59851ab9b/1537943578110/RGMTposter2.pdf)  
 **Maya Benowitz**, Michael Schnieders, Janice Robertson  
-_Biomedical Engineering Symposium, University of Iowa, 2016 | Best Poster Award_  
+_Biomedical Engineering Symposium, University of Iowa, 2016  |  Best Poster Award_  
 
 [Centrality Measures of Graphs utilizing Continous Walks in Hilbert Space](https://digitalcommons.usu.edu/phys_capstoneproject/18/)  
 **Maya Benowitz**, Mentor: David Peak  
-_USU DigitalCommons (In-House Journal), Undergraduate Thesis, 2015_  
+_In-House Journal, Undergraduate Thesis, 2015_  
 
 [Monitoring the Mitochondrial Membrane Potential with Mitoview 633: A New Molecular Probe](https://www.cell.com/biophysj/fulltext/S0006-3495(14)04512-3)  
 **Maya Benowitz**, Qince Li, KahYong Goh, Chih-Chang Wei, Lufang Zhou  
-_Biophysical Society's 59th Annual Meeting, Conference Abstract, 2015_  
+_Biophysical Society's 59th Annual Meeting, 2015_  
 
 
 ## Influential Unpublished Manuscripts  
