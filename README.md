@@ -15,7 +15,7 @@ Much of my work focuses on importing insights and tools from fundamental and sta
 [Machine Learning in Graph-Based Hilbert Spaces](https://static1.squarespace.com/static/5b6a93759772ae3555c31081/t/5beb844f0ebbe88dbfe6fec1/1542161488356/_system_appendPDF_proof_hi%281%29.pdf)  
 **Maya Benowitz**  
 _Submitted to the Journal of Graph Theory, 2018_
->This paper is centered around a theorem connecting spectral graph theory with operator theory using insights from fundamental physics (Hilbert spaces) and statistical physics (power-laws). This theorem allows these two formerly disparate fields to communicate with one another using a unified language. As a consequence, new tools for the machine learner's toolkit (including graph distances and graph kernels) emerge --- computable in polynomial time --- and therefore applicable in chem-and-bioinformatics.
+>This paper is centered around a theorem connecting spectral graph theory with operator theory using insights from fundamental physics (Hilbert spaces) and statistical physics (power-laws). This theorem allows these two formerly disparate fields to communicate with one another using a unified language. As a consequence, new tools for the machine learner's toolkit (including graph distances and graph kernels) emerge --- computable in polynomial time --- and therefore applicable in chem-and-bioinformatics. **This work is apart of a series of three short papers**.  
 
 [Computational Spectral Mechanics: A New Perspective of Entropy](https://static1.squarespace.com/static/5b6a93759772ae3555c31081/t/5bb99fe653450a0e432811f3/1538891761207/spec.pdf)  
 **Maya Benowitz**, Michael Schnieders, Janice Robertson  
