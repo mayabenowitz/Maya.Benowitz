@@ -46,7 +46,7 @@ I am a Jewish transwoman with humble beginnings. I began my academic career in o
 <p align="center">
    <img src="https://avatars0.githubusercontent.com/u/44814324?s=400&v=4">
   <b></b><br>
-  <a href="https://static1.squarespace.com/static/5b6a93759772ae3555c31081/t/5bc647e7b208fcc2a571e33c/1539721191191/mayabenowitz_cv.pdf">CV</a> |
+  <a href="https://static1.squarespace.com/static/5b6a93759772ae3555c31081/t/5bf23a728985830378886e81/1542601330746/mayabenowitz_cv.pdf">CV</a> |
   <a href="https://www.researchgate.net/profile/M_Benowitz">ResearchGate</a> |
   <a href="https://www.mpbenowitz.work/">Extras</a>
   <br><br>
