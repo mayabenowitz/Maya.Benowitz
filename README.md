@@ -1,7 +1,7 @@
 # Maya's Compendium of Projects
 
 <details>
-<summary>Biohacking Nature's Molecular Machines</summary>
+<h1>Biohacking Nature's Molecular Machines</h1>
 
 <br/><br/>
 
@@ -31,10 +31,4 @@
   Even more cool shit...
   
   </details>
-  
-  <figure>
- <img src="http://placekitten.com/200/300" alt="Small picture of a kitten" />
- <figcaption>
- Small picture of a kitten, graciously shared by <a href="http://placekitten.com">placekitten.com</a>
- </figcaption>
-</figure>
+
