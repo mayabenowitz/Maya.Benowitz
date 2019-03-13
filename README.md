@@ -14,6 +14,6 @@
 <br/><br/>
 
 <p align="center">
-  <img src="https://static1.squarespace.com/static/5b6a93759772ae3555c31081/t/5ba986721905f44e42066515/1537836659251/clc.pdf">
+  <img src="https://badger-dogfish-efm2.squarespace.com/config/pages">
   <b></b><br>
   
