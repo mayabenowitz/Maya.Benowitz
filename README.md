@@ -1,7 +1,7 @@
 # Maya's Compendium of Projects
 
 <details>
-<summary>Protein Biohacking</summary>
+<summary>Biohacking Nature's Molecular Machines</summary>
 
 <br/><br/>
 
@@ -12,8 +12,22 @@
 </details>
   
 <details>
-  <summary>Advanced Time-Series Analysis of Molecular Dynamics Simulations</summary>
+  <summary>A Novel RMT-based Molecular Dynamics Algorithm</summary>
   
   Some cool shit...
+  
+  </details>
+  
+  <details>
+  <summary>ARMA Time-Series Analysis of Molecular Dynamics Simulations</summary>
+  
+  Some more cool shit...
+  
+  </details>
+  
+   <details>
+  <summary>Confocal Live-Cell Imaging: Heart Cells in Action</summary>
+  
+  Even more cool shit...
   
   </details>
