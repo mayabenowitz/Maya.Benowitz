@@ -1,4 +1,4 @@
-# Maya's Compendium of Projects
+# Compendium of Projects
 
 <details>
 <summary>Biohacking Nature's Molecular Machines</summary>
