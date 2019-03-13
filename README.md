@@ -1,7 +1,7 @@
 # Maya's Compendium of Projects
 
 <details>
-<summary>Biohacking</summary>
+<summary>Protein Biohacking</summary>
 
 <br/><br/>
 
@@ -12,8 +12,8 @@
 </details>
   
 <details>
-  <summary>Molecular Dynamics Simulations</summary>
+  <summary>Advanced Time-Series Analysis of Molecular Dynamics Simulations</summary>
   
-  +Some cool shit...
+  Some cool shit...
   
   </details>
