@@ -51,3 +51,10 @@ I am a Jewish transwoman with humble beginnings. I began my academic career in o
   <a href="https://www.mpbenowitz.work/">Extras</a>
   <br><br>
 </p>
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://avatars0.githubusercontent.com/u/44814324?s=400&v=4">
+  <b></b><br>
+  
