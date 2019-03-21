@@ -1,97 +1,31 @@
-<!DOCTYPE html>
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<style>
-body {
-  font-family: Arial, Helvetica, sans-serif;
-}
+<details>
+<summary>Biohacking Nature's Molecular Machines</summary>
 
-.mobile-container {
-  max-width: 480px;
-  margin: auto;
-  background-color: #555;
-  height: 500px;
-  color: white;
-  border-radius: 10px;
-}
+<br/><br/>
 
-.topnav {
-  overflow: hidden;
-  background-color: #333;
-  position: relative;
-}
+<p align="center">
+  <img src="https://static1.squarespace.com/static/5b6a93759772ae3555c31081/t/5c886ba5104c7be6366ca3ed/1552444326633/Redesigned_Interface.PNG">
+  <b></b><br>
 
-.topnav #myLinks {
-  display: none;
-}
 
-.topnav a {
-  color: white;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-  display: block;
-}
+<details>
+  <summary>A Novel RMT-based Molecular Dynamics Algorithm</summary>
 
-.topnav a.icon {
-  background: black;
-  display: block;
-  position: absolute;
-  right: 0;
-  top: 0;
-}
+  Some cool shit...
 
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
+  </details>
 
-.active {
-  background-color: #4CAF50;
-  color: white;
-}
-</style>
-</head>
-<body>
+  <details>
+  <summary>ARMA Time-Series Analysis of Molecular Dynamics Simulations</summary>
 
-<!-- Simulate a smartphone / tablet -->
-<div class="mobile-container">
+  Some more cool shit...
 
-<!-- Top Navigation Menu -->
-<div class="topnav">
-  <a href="#home" class="active">Logo</a>
-  <div id="myLinks">
-    <a href="#news">News</a>
-    <a href="#contact">Contact</a>
-    <a href="#about">About</a>
-  </div>
-  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-    <i class="fa fa-bars"></i>
-  </a>
-</div>
+  </details>
 
-<div style="padding-left:16px">
-  <h3>Vertical Mobile Navbar</h3>
-  <p>This example demonstrates how a navigation menu on a mobile/smart phone could look like.</p>
-  <p>Click on the hamburger menu (three bars) in the top right corner, to toggle the menu.</p>
-</div>
+   <details>
+  <summary>Confocal Live-Cell Imaging: Heart Cells in Action</summary>
 
-<!-- End smartphone / tablet look -->
-</div>
+  Even more cool shit...
 
-<script>
-function myFunction() {
-  var x = document.getElementById("myLinks");
-  if (x.style.display === "block") {
-    x.style.display = "none";
-  } else {
-    x.style.display = "block";
-  }
-}
-</script>
-
-</body>
-</html>
+  </details>
 
